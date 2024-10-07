@@ -16,23 +16,23 @@ Com a intenção de aumentar o negócio, Roberto está disposto a informatizar s
 
 ## Modelo Conceitual do estudo de casa
 
-<img src="modeloconceitual.png" width=300 height=400>
+<img src="modeloconceitual.png">
 
 ## Modelo Lógico com as normalizações
 
-<img src= "modelologico.png"width=300 height=400>
+<img src= "modelologico.png">
 
 ## Primeira Normalização
 
-<img src= "primeiranormalizacao.png" width=300 height=400>
+<img src= "primeiranormalizacao.png">
 
 ##  Segunda Normalização
 
-<img src= "segundanormalizacao.png" width=300 height=400>
+<img src= "segundanormalizacao.png">
 
 ## Terceira Normalização
 
-<img src= "terceiranormalizacao.png" width=300 height=400>
+<img src= "terceiranormalizacao.png">
 
 ``` sql
 
